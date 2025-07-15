@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://voidos.in"><img src="https://i.postimg.cc/x81Hy9sp/Void-OS-Logo-Trans.png" height="128" width="128" alt="VoidOS"></a>
+  <a href="https://voidos.in"><img src="https://github.com/user-attachments/assets/4ffd8197-3c2c-4515-a267-8ab00bd185bb" height="128" width="128" alt="VoidOS"></a>
 </p>
 
 <h4 align="center">Built from Nothing, Ready for Everything</h4>
